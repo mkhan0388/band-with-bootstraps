@@ -1,0 +1,19 @@
+body {
+    background-image: url(./West\ ham\ bg.jpg);
+    background-image: linear-gradient(to bottom, #845ec2, #976fbb, #a481b5, #ad94b2, #b0a8b0);
+p {
+    color:black;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 800;
+}
+h1 {
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    background-color: #B0A8B9;
+}
+ul li{
+    font-family: 'Mulish', sans-serif;
+}
+img{
+    text-align: center;
+}
